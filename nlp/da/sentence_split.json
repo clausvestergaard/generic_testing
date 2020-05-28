@@ -1,0 +1,47 @@
+[
+    {
+        "full_sentence": "Dette er en JSON-fil. Den indeholder tekstbidder i sin fulde længde og opsplittet i sætninger.",
+        "splittet_sentences": [
+            "Dette er en JSON-fil.",
+            "Den indeholder tekstbidder i sin fulde længde og opsplittet i sætninger."
+        ]
+    },
+    {
+        "full_sentence": "Saxo Premium bringer dig sommerens oplevelser! Prøv gratis i 30 dage. Du får ubegrænset adgang til tusindvis af e- og lydbøger store besparelser på fysiske bøger.",
+        "splittet_sentences": [
+            "Saxo Premium bringer dig sommerens oplevelser!",
+            "Prøv gratis i 30 dage.",
+            "Du får ubegrænset adgang til tusindvis af e- og lydbøger store besparelser på fysiske bøger."
+        ]
+    },
+    {
+        "full_sentence": "Vi besøgte Gedulgt i Aarhus, hvor Mattis viste os, hvordan de laver deres 'Monkey Mai Tai'. Et lækkert twist på en klassiker med Monkey 47, overproofed rom og de klassiske smage en Mai Tai altid byder på i form af mandellikør, limesaft og mynte!",
+        "splittet_sentences": [
+            "Vi besøgte Gedulgt i Aarhus, hvor Mattis viste os, hvordan de laver deres 'Monkey Mai Tai'.",
+            "Et lækkert twist på en klassiker med Monkey 47, overproofed rom og de klassiske smage en Mai Tai altid byder på i form af mandellikør, limesaft og mynte!"
+        ]
+    },
+    {
+        "full_sentence": "Hej Claus,\n\nDet er som om jeg har mistet mødet i min kalender her kl 9.15\nKan du indkalde mig igen?.",
+        "splittet_sentences": [
+            "Hej Claus,",
+            "Det er som om jeg har mistet mødet i min kalender her kl 9.15",
+            "Kan du indkalde mig igen?"
+        ]
+    },
+    {
+        "full_sentence": "Hej Claus,\nFint – jeg har MEGET brug for skærmbilleder fra N16.\nSom udgangspunkt har vi tabeller på det hele – vi har i omegnen af 1.000 tabeller fra N16 med alverdens indhold – også hændelser. Og vi kan sagtens skelne mellem aktive og udgåede policer.\nHændelserne ligger i særskilte tabeller – jeg vil tro, der er omkring 100 af disse.\nI vores kundesystem har vi oplysninger om navn, adresse, alder  m.m.\nSom du måske kan forstå er det sin sag og ’gå på indkøb’ i disse tabeller – ud over at jeg ikke har kendskab til alt indhold i de forskellige tabeller, vil det tage ualmindelig lang tid at gå dem alle igennem.\nDet er derfor vigtigt, at I får stillet de krav/ønsker til data, I har brug for, så må vi se, hvad der er muligt at finde.\nLav gerne en ’need to’ og en ’nice to’ prioritering. Herfra skal vi nok prøve at finde alternative løsninger, hvis der er noget, vi ikke umiddelbart har ’på hylden’.\nJeg er ikke på kontoret fredag og er i næste uge lagt ned af vores månedskørsler.",
+        "splittet_sentences": [
+            "Hej Claus,",
+            "Fint – jeg har MEGET brug for skærmbilleder fra N16.",
+            "Som udgangspunkt har vi tabeller på det hele – vi har i omegnen af 1.000 tabeller fra N16 med alverdens indhold – også hændelser.",
+            "Og vi kan sagtens skelne mellem aktive og udgåede policer.",
+            "Hændelserne ligger i særskilte tabeller – jeg vil tro, der er omkring 100 af disse.",
+            "I vores kundesystem har vi oplysninger om navn, adresse, alder  m.m.",
+            "Som du måske kan forstå er det sin sag og ’gå på indkøb’ i disse tabeller – ud over at jeg ikke har kendskab til alt indhold i de forskellige tabeller, vil det tage ualmindelig lang tid at gå dem alle igennem.",
+            "Det er derfor vigtigt, at I får stillet de krav/ønsker til data, I har brug for, så må vi se, hvad der er muligt at finde.",
+            "Lav gerne en ’need to’ og en ’nice to’ prioritering. Herfra skal vi nok prøve at finde alternative løsninger, hvis der er noget, vi ikke umiddelbart har ’på hylden’.",
+            "Jeg er ikke på kontoret fredag og er i næste uge lagt ned af vores månedskørsler."
+        ]
+    }
+]
