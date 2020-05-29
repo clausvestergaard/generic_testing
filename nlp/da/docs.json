@@ -77,16 +77,16 @@
         }
     },
     {
-        "doc": "Kære Carlsberg\n\nHvornår kommer der flere procenter i jeres øl?\n\nDet er efterhånden som at drikke koldt pis\n\nMed venlig hilsen Tommy Kenter",
+        "doc": "Kære Carlsberg\n\nHvornår kommer der flere procenter i jeres øl 🤔\n\nDet er efterhånden som at drikke koldt pis\n\nMed venlig hilsen Tommy Kenter",
         "sentences": [
             "Kære Carlsberg",
-            "Hvornår kommer der flere procenter i jeres øl?",
+            "Hvornår kommer der flere procenter i jeres øl 🤔",
             "Det er efterhånden som at drikke koldt pis",
             "Med venlig hilsen Tommy Kenter"
         ],
         "meta": {
             "doc": "mail",
-            "sentences": ["no punctuation"]
+            "sentences": ["missing punctuation", "emojis"]
         }
     }
 ]
